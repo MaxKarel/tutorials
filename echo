@@ -1,0 +1,2 @@
+chapterOne.sh:grep da * 1>echo
+ls.txt:chapterOne.sh:grep da * 1>ls.txt
